@@ -23,3 +23,7 @@ Ensure you have the following installed before running the project:
    git clone https://github.com/Ran-25/FIRA-PTSB-Urban_Driving.git  
    cd FIRA-PTSB-Urban_Driving  
    ```  
+
+### Future Update to ADD (TBA)
+- **Sensor Fusion** – Combine more sensor.  
+- **Software Upgrade** – Use latest Technology.
