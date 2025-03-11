@@ -12,7 +12,7 @@ This repository contains the implementation of the **FIRA-PTSB Urban Driving** p
 ### Prerequisites  
 Ensure you have the following installed before running the project:  
 - Python 3.x  
-- ROS (if applicable)  
+- ROS Noetic (if applicable)  
 - OpenCV  
 - NumPy  
 - TensorFlow/PyTorch (if using deep learning models)  
