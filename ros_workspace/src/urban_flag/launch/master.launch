@@ -1,0 +1,6 @@
+<launch>
+    <node name="yolo_detect_node" pkg="urban_flag" type="yolo_node.py" output="screen"/>
+    <node name="distance_yolo_node" pkg="urban_flag" type="distance_yolo_node.py" output="screen"/> 
+    <node name="no_servo_node" pkg="urban_flag" type="degree_node.py" output="screen"/>
+    <node name="master_node" pkg="urban_flag" type="urban_master.py" output="screen"/> 
+</launch>

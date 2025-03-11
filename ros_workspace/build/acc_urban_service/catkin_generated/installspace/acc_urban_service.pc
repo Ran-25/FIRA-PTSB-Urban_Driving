@@ -1,0 +1,8 @@
+prefix=/home/ubuntu20/ros_workspace/install
+
+Name: acc_urban_service
+Description: Description of acc_urban_service
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

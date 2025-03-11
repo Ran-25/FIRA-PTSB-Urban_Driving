@@ -1,0 +1,2 @@
+urban_flag
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu20/ros_workspace/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu20/ros_workspace/install -DCATKIN_WHITELIST_PACKAGES=urban_flag -G Unix Makefiles

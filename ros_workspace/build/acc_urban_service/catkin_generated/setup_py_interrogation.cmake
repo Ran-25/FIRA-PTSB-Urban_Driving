@@ -1,0 +1,7 @@
+set(acc_urban_service_SETUP_PY_SETUP_MODULE "distutils.core")
+set(acc_urban_service_SETUP_PY_VERSION "0.0.0")
+set(acc_urban_service_SETUP_PY_SCRIPTS "")
+set(acc_urban_service_SETUP_PY_PACKAGES "lib")
+set(acc_urban_service_SETUP_PY_PACKAGE_DIRS "scripts/lib")
+set(acc_urban_service_SETUP_PY_MODULES "")
+set(acc_urban_service_SETUP_PY_MODULE_DIRS "")

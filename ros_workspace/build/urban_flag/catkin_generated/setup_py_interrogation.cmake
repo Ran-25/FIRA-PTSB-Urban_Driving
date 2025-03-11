@@ -1,0 +1,7 @@
+set(urban_flag_SETUP_PY_SETUP_MODULE "distutils.core")
+set(urban_flag_SETUP_PY_VERSION "0.0.0")
+set(urban_flag_SETUP_PY_SCRIPTS "")
+set(urban_flag_SETUP_PY_PACKAGES "lib")
+set(urban_flag_SETUP_PY_PACKAGE_DIRS "scripts/lib")
+set(urban_flag_SETUP_PY_MODULES "")
+set(urban_flag_SETUP_PY_MODULE_DIRS "")

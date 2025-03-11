@@ -1,0 +1,6 @@
+<launch>
+    <node name="TwistDk" pkg="dk" type="test_twist.py" output="screen"/>
+    <node name="yolo_detect" pkg="dk" type="Yolo_Detection.py" output="screen"/>
+    <node name="donkey_car_node" pkg="dk" type="noServo.py" output="screen"/> 
+    <node name="distance_node" pkg="dk" type="distance.py" output="screen"/> 
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu20/ros_workspace/install
+
+Name: urban_flag
+Description: Description of urban_flag
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
